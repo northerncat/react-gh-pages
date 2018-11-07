@@ -1,0 +1,23 @@
+.table th {
+	text-align: center;
+	font-size: 18pt;
+	font-weight: 700;
+}
+
+.table th.unit {
+	width: 67%;
+}
+
+.table th.count {
+	width: 33%;
+}
+
+.table td {
+	text-align: center;
+	font-size: 18pt;
+	font-weight: 700;
+}
+
+.table .inactive {
+	background-color: #EECCCC;
+}
