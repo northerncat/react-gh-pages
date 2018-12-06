@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://northerncat.github.io/react-gh-pages",
   "dependencies": {
-    "react": "^16.5.2",
+    "react": "^16.6.1",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.4"
   },
@@ -26,6 +26,9 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.0.1",
+    "react-file-reader": "^1.1.4",
+    "react-native": "^0.57.4",
+    "react-select": "^2.1.1"
   }
 }
