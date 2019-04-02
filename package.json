@@ -1,8 +1,8 @@
 {
-  "name": "react-gh-pages",
+  "name": "sms-distribution-react-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://northerncat.github.io/react-gh-pages",
+  "homepage": "http://northerncat.github.io/sms-distribution-react-gh-pages",
   "dependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.5.2",
