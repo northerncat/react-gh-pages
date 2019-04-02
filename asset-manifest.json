@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.0e705b9d.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.e738f847.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.e738f847.chunk.js.map",
-  "static/js/1.8d19ff08.chunk.js": "/react-gh-pages/static/js/1.8d19ff08.chunk.js",
-  "static/js/1.8d19ff08.chunk.js.map": "/react-gh-pages/static/js/1.8d19ff08.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.346eb3ee.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.346eb3ee.js.map",
-  "static/css/main.0e705b9d.chunk.css.map": "/react-gh-pages/static/css/main.0e705b9d.chunk.css.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.4811f9803afd65d4a1d17dc8364c2259.js": "/react-gh-pages/precache-manifest.4811f9803afd65d4a1d17dc8364c2259.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js"
+  "main.css": "/sms-distribution-react-gh-pages/static/css/main.0e705b9d.chunk.css",
+  "main.js": "/sms-distribution-react-gh-pages/static/js/main.85a8e405.chunk.js",
+  "main.js.map": "/sms-distribution-react-gh-pages/static/js/main.85a8e405.chunk.js.map",
+  "static/js/1.8d19ff08.chunk.js": "/sms-distribution-react-gh-pages/static/js/1.8d19ff08.chunk.js",
+  "static/js/1.8d19ff08.chunk.js.map": "/sms-distribution-react-gh-pages/static/js/1.8d19ff08.chunk.js.map",
+  "runtime~main.js": "/sms-distribution-react-gh-pages/static/js/runtime~main.14c930dd.js",
+  "runtime~main.js.map": "/sms-distribution-react-gh-pages/static/js/runtime~main.14c930dd.js.map",
+  "static/css/main.0e705b9d.chunk.css.map": "/sms-distribution-react-gh-pages/static/css/main.0e705b9d.chunk.css.map",
+  "index.html": "/sms-distribution-react-gh-pages/index.html",
+  "precache-manifest.509042f455b0bcaeae879e7fc4e34951.js": "/sms-distribution-react-gh-pages/precache-manifest.509042f455b0bcaeae879e7fc4e34951.js",
+  "service-worker.js": "/sms-distribution-react-gh-pages/service-worker.js"
 }
